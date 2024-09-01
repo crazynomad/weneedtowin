@@ -1,9 +1,34 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+title: "关于陌咖科技 (BEEMOKA)"
+meta_title: "关于我们"
+description: "了解陌咖科技的公司背景、愿景与使命，以及我们如何通过创新技术驱动企业数字化转型。"
+image: "/images/about-beemoka.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+### 公司简介
+
+陌咖科技（BEEMOKA）是一家专注于营销、销售和运营创新解决方案的高科技公司。我们致力于通过领先的技术和创新的服务，为客户提供全面的数字化支持，帮助企业在新营销、新销售、新运营领域实现突破。
+
+### 愿景与使命
+
+我们的愿景是成为全球数字化创新领域的先锋，为企业创造卓越的商业价值。我们始终坚持以客户为中心，通过不断的技术创新和优质服务，推动企业实现数字化转型。
+
+### 核心团队
+
+陌咖科技拥有一支由行业顶尖专家组成的团队，团队成员具备丰富的技术背景和实战经验。我们相信，通过卓越的团队协作和专业能力，能够为客户带来更好的业务支持和创新解决方案。
+
+### 发展历程
+
+- **2015 年**：陌咖科技成立，专注于提供数字化营销解决方案。
+- **2017 年**：推出智能销售支持系统，助力客户提升销售效率。
+- **2019 年**：进军车主运营管理，推出综合数字化服务。
+- **2022 年**：与多家知名品牌合作，成为领先服务提供商。
+
+### 我们的价值观
+
+我们相信创新、合作和持续改进是企业成功的关键。陌咖科技将继续坚持技术创新，为客户提供最优质的数字化解决方案，助力企业在激烈的市场竞争中不断前行。
+
+---
+
+我们期待与更多企业合作，共同迈向数字化的未来！
