@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "助力企业数字化转型的最佳选择 - 陌咖科技/BEEMOKA"
-  content: "陌咖科技/BEEMOKA 通过领先的技术和创新服务，为企业提供全面的数字化支持，帮助在新营销、新销售、新运营领域实现突破。"
+  title: "助力企业数字化转型的最佳选择 - 陌咖科技 Moka Technology"
+  content: "陌咖科技 Moka Technology 通过领先的技术和创新服务，为企业提供全面的数字化支持，帮助在新营销、新销售、新运营领域实现突破。"
   image: "/images/banner.png"
   button:
     enable: true
